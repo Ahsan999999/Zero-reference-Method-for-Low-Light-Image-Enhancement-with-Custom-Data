@@ -2,7 +2,7 @@
 The zero-DCE (https://arxiv.org/pdf/2001.06826.pdf) deep learning based model is trained in a newly created dataset.
 
 ## About the Project
-This project was completed as a course project on `Artificial Intelligence` at `Clarkson University` taught by `Prof. Christopher Lynch`.
+This project was completed as a course project on `Deep Learning ` at `Clarkson University` taught by `Prof. Soumobroto Dey`.
 
 ### Project Completed by:
 - Nowreen Ahsan: https://github.com/Ahsan999999
