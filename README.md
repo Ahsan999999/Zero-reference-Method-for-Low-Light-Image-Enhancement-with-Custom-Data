@@ -10,7 +10,7 @@ This project was completed as a course project on `Artificial Intelligence` at `
 - Md Shakil Anwar
 
 ### Project Documents
-- [Project presentation]([https://www.google.com](https://docs.google.com/presentation/d/1yl5oBhv4f7_wn7XyUd5xn5c2HFwIp7z1/edit#slide=id.p1))
+- [Project presentation](https://docs.google.com/presentation/d/1yl5oBhv4f7_wn7XyUd5xn5c2HFwIp7z1/edit#slide=id.p1)
 
 ### Why Low Light Image Enhancement
 - Decrease Noise
